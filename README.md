@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋 I'm a Junior Front-End Developer</h1>
+<h1 align="center">Hi there 👋 I'm a Front-End Developer</h1>
 
 <p align="center">
 Passionate about building responsive and user-friendly websites.  
@@ -29,7 +29,7 @@ Always eager to learn, grow, and collaborate with others in the tech community.
 
 ## 📂 Projects
 
-- [📌 Todo list](https://github.com/liliyj/Simple-To-Do-List)
+- [📌 Todo list](https://liliyj.github.io/Todolist.github.io/)
 - [📌 Login form](https://github.com/liliyj/Login-Form)
 
 
