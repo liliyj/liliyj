@@ -1,4 +1,4 @@
- <h1 align="center">Hi there 👋 I'm a Front-End Developer</h1>
+ <h1 align="center">Hi there 👋🏾 I'm a Front-End Developer</h1>
 
 <p align="center">
 Passionate about building responsive and user-friendly websites.  
@@ -7,7 +7,7 @@ Always eager to learn, grow, and collaborate with others in the tech community.
 
 ---
 
-## 🧠 About Me
+## 👩🏽‍💻 About Me
 
 - 🔭 Currently working on small front-end projects
 - 🌱 Learning **React** and improving JavaScript skills
@@ -41,5 +41,5 @@ Always eager to learn, grow, and collaborate with others in the tech community.
 
 
 
-<p align="center">Thank you for visiting my profile! 💙</p>
+<p align="center">Thank you for visiting my profile! 🤍</p>
 
