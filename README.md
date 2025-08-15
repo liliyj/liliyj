@@ -29,13 +29,13 @@ Always eager to learn, grow, and collaborate with others in the tech community.
 
 ## 📂 Projects
 
-- 📌 [Calculator]( https://liliyj.github.io/Calculator.github.io/)
-- 📌 [Todo list](https://liliyj.github.io/Todolist.github.io/)
-- 📌 [Login form](https://liliyj.github.io/Loginform.github.io/)
-- 📌 [Cafe-menu](https://liliyj.github.io/Cafemenu.github.io/)
-- 📌 [Login-form](https://liliyj.github.io/Form.github.io/)
-- 📌 [Survey-form](https://liliyj.github.io/Surveyform.github.io/)
-- 📌 [Form-Using-JS](https://liliyj.github.io/JsForm.github.io/)
+- 📌 [Calculator]( https://liliyj.github.io/Calculator/)
+- 📌 [Todo list](https://liliyj.github.io/Todolist/)
+- 📌 [Login form](https://liliyj.github.io/Loginform/)
+- 📌 [Cafe-menu](https://liliyj.github.io/Cafemenu/)
+- 📌 [Login-form](https://liliyj.github.io/Form/)
+- 📌 [Survey-form](https://liliyj.github.io/Surveyform/)
+- 📌 [Form-Using-JS](https://liliyj.github.io/JsForm/)
 - 📌 [Tic-Tac-Toe-Game](https://liliyj.github.io/TicTacToeGame/)
 
 
