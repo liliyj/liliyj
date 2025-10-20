@@ -30,7 +30,7 @@ Always eager to learn, grow, and collaborate with others in the tech community.
 ## 📂 Projects
 
 - 📌 [Calculator]( https://liliyj.github.io/Calculator/)
-- 📌 [Todo list](https://liliyj.github.io/Todolist/)
+- 📌 [Todo list](https://liliyj.github.io/TodoListApp/)
 - 📌 [LoginForm](https://liliyj.github.io/LoginFormHTML-CSS/)
 - 📌 [Button-Design](https://liliyj.github.io/ButtonDesign/)
 - 📌 [Cafe-menu](https://liliyj.github.io/Cafemenu/)
